@@ -7,5 +7,5 @@ scikit-learn
 scipy
 sklearn
 statsmodels
-urlib3==1.26.7
+urllib3==1.26.7
 joblib
